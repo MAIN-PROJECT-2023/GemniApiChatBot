@@ -1,6 +1,6 @@
 #  Chatbot Interface with Gemini API
 
-**Get ready to develop an intelligent conversational partner powered by the Gemini API! This project focuses on training a chatbot using the TensorFlow framework and integrating it with the Gemini API for enhanced functionality.
+**Get ready to develop an intelligent conversational partner** powered by the Gemini API! This project focuses on training a chatbot using the TensorFlow framework and integrating it with the Gemini API for enhanced functionality.
 
 ##  Quick Start
 
